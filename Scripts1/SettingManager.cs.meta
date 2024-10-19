@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 00a44618dbc20eb4f815c0dadffa75c1
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - sambeSettings: {fileID: 11400000, guid: 31c019012ae3c3f4896a5c0e7c872e45, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
